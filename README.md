@@ -1,5 +1,9 @@
 # Cashy App - Expense Tracker
-
+<div align="center">
+  <a href="https://github.com/Mazen-73/cashy/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Latest_APK-blue?style=for-the-badge&logo=android" alt="Download APK">
+  </a>
+</div>
 This app is **Cashy**, an expense tracker built with **Material Design 3 (M3)**, featuring an expressive user interface with spring animations.
 
 ## 📱 Key Technical Features
