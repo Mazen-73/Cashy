@@ -12,7 +12,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">&nbsp;&nbsp;
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">&nbsp;&nbsp;
 </p>
-This app is **Cashy**, an expense tracker built with **Material Design 3 (M3)**, featuring an expressive user interface with spring animations.
+<strong>Cashy</strong>, an expense tracker built with <strong>Material Design 3 Expressive</strong>, featuring an expressive user interface with spring animations.
 
 ## 📱 Key Technical Features
 * **UI/UX:** Uses Material Design 3 components, supports both Light and Dark modes, custom fonts, and an expressive Bottom Navigation bar.
