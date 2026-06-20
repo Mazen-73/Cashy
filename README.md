@@ -2,7 +2,7 @@
   <img src="images/icon.png" width="128" height="128">
 </p>
 
-<h1 align="center">Cashy - A Material Design 3 Expressive Digital Money Tracker</h1>
+<h1 align="center">Cashy - A Material 3 Expressive Digital Money Tracker</h1>
 
 <p align="center">
   <img src="images/banner.png" alt="Feature Graphic" width="100%">
