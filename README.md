@@ -1,9 +1,17 @@
-# Cashy App - Expense Tracker
-<div align="center">
-  <a href="https://github.com/Mazen-73/cashy/releases/latest">
-    <img src="https://img.shields.io/badge/Download-Latest_APK-blue?style=for-the-badge&logo=android" alt="Download APK">
-  </a>
-</div>
+<p align="center">
+  <img src="images/icon.png" width="128" height="128">
+</p>
+
+<h1 align="center">Cashy - A Material Design 3 Expressive Digital Money Tracker</h1>
+
+<p align="center">
+  <img src="images/banner.png" alt="Feature Graphic" width="100%">
+</p>
+<p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">&nbsp;&nbsp;
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">&nbsp;&nbsp;
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">&nbsp;&nbsp;
+</p>
 This app is **Cashy**, an expense tracker built with **Material Design 3 (M3)**, featuring an expressive user interface with spring animations.
 
 ## 📱 Key Technical Features
@@ -31,3 +39,10 @@ The `MainActivity` is divided into three main screens switched within a `Coordin
 * **Language:** Kotlin.
 * **Libraries:** `androidx.appcompat`, `material`, `kotlinx.coroutines`, `FileProvider`.
 * **Compatibility:** Uses `AppCompatDelegate` for dynamic language and dark mode management.
+<p align="center">  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/KzPKjBNn/footer-Dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/C5wRq5P9/footer-Light.png">
+    <img alt="Footer" src="https://i.postimg.cc/KzPKjBNn/footer-Dark.png">
+  </picture>
+</p>
