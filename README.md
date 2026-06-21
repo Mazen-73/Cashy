@@ -34,7 +34,14 @@ The `MainActivity` is divided into three main screens switched within a `Coordin
     * Displays the full transaction history, sorted and grouped by date.
 3.  **Settings Screen:**
     * Integrated directly into the main screen, supporting: name editing, language switching (Arabic/English), theme selection, email feedback (with auto-attached device info), and app sharing.
+---
 
+## ⭐ Support the Project
+If you find **Cashy** helpful or like the design, please consider giving it a star! It helps the project grow and motivates me to add more features.
+
+[![GitHub stars](https://img.shields.io/github/stars/Mazen-73/Cashy?style=for-the-badge&color=6750A4&logo=github)](https://github.com/Mazen-73/Cashy/stargazers)
+
+---
 ## 🛠 Tools & Libraries
 * **Language:** Kotlin.
 * **Libraries:** `androidx.appcompat`, `material`, `kotlinx.coroutines`, `FileProvider`.
