@@ -11,7 +11,11 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">&nbsp;&nbsp;
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">&nbsp;&nbsp;
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">&nbsp;&nbsp;
+    <a href="https://github.com/Mazen-73/Cashy/stargazers">
+    <img src="https://m3-markdown-badges.vercel.app/stars/4/1/Mazen-73/Cashy" alt="GitHub Stars">
+  </a>
 </p>
+
 <strong>Cashy</strong>, an expense tracker built with <strong>Material Design 3 Expressive</strong>, featuring an expressive user interface with spring animations.
 
 ## 📱 Key Technical Features
@@ -39,7 +43,11 @@ The `MainActivity` is divided into three main screens switched within a `Coordin
 ## ⭐ Support the Project
 If you find **Cashy** helpful or like the design, please consider giving it a star! It helps the project grow and motivates me to add more features.
 
-[![GitHub stars](https://img.shields.io/github/stars/Mazen-73/Cashy?style=for-the-badge&color=6750A4&logo=github)](https://github.com/Mazen-73/Cashy/stargazers)
+<p align="center">
+  <a href="https://github.com/Mazen-73/Cashy/stargazers">
+    <img src="https://m3-markdown-badges.vercel.app/stars/4/1/Mazen-73/Cashy" alt="GitHub Stars">
+  </a>
+</p>
 
 ---
 ## 🛠 Tools & Libraries
