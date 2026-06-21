@@ -38,6 +38,11 @@ The `MainActivity` is divided into three main screens switched within a `Coordin
     * Displays the full transaction history, sorted and grouped by date.
 3.  **Settings Screen:**
     * Integrated directly into the main screen, supporting: name editing, language switching (Arabic/English), theme selection, email feedback (with auto-attached device info), and app sharing.
+## 📸 Screenshots
+
+| Home Screen | History Screen | Settings |
+| :---: | :---: | :---: |
+| <img src="images/1.png" width="200"> | <img src="images/2.png" width="200"> | <img src="images/4.png" width="200"> |
 ---
 
 ## ⭐ Support the Project
