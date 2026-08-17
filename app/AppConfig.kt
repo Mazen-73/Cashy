@@ -11,12 +11,6 @@ object CashyConfig {
     }
 }
 
-// Data models for financial transactions
-data class TransactionModel(
-    val title: String,
-    val amount: Double,
-    val category: String
-)
 
 enum class AppThemeMode {
     LIGHT,
