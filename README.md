@@ -42,10 +42,9 @@
 
 ## 📸 Screenshots
 
-| Home Screen | History Screen | Settings |
-| :---: | :---: | :---: |
-| <img src="images/1.png" width="200"> | <img src="images/2.png" width="200"> | <img src="images/4.png" width="200"> |
-
+| Home Screen | History Screen | Analytics | Settings |
+| :---: | :---: | :---: | :---: |
+| <img src="images/1.png" width="200"> | <img src="images/2.png" width="200"> | <img src="images/3.png" width="200"> | <img src="images/4.png" width="200"> |
 ---
 ## 🛠 Tools & Libraries Used
 * **Programming Language:** Kotlin.
